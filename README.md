@@ -1,9 +1,6 @@
-### Hi there 👋
+### Ola, eu sou Matheus Tonholo dos Santos 👋
 
 <!--
-**matheusTsantos/matheusTsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Atualmente trabalho com projetos de BI (desde a modelagem dimensional, realizando os processos de ETL e criando dashboards em ferramentas de DataViz)
+
+Principais ferramentas de tecnologia que possuo experiência
+
+SQL (Oracle, SQL Server, Postgres, MySQL);
+ETL (Pentaho Data Integration);
+DataViz (Weknow, Power BI, Qlik Sense, Google Studio);
+PHP;
+> Google Cloud Plataform (Cloud Storage, BigQuery)
+> Python p/ análise de Dados (Pandas)
+> NoSQL (Mongodb)
+> Scrum (Jira, Trello)
+> ERP MV (Sistema Hospitalar)
+ 
+ <a href = "https://www.linkedin.com/in/matheus-tonholo-dos-santos-132383209/"> </a>
